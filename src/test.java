@@ -7,5 +7,7 @@ public class test {
         Secretary secretary = new Secretary();
         Legalsecretary legalsecretary = new Legalsecretary();
         Marketer marketer = new Marketer();
+
+        System.out.println(employ
     }
 }
